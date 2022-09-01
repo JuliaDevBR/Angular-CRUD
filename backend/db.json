@@ -1,0 +1,59 @@
+{
+    "customers": [
+      {
+        "id": 1,
+        "firstName": "Michelle",
+        "lastName": "Green",
+        "address": "Rua dois",
+        "city": "São Paulo",
+        "state": "São Paulo",
+        "totalOrder": 12000.00
+      },
+      {
+          "id": 2,
+          "firstName": "João",
+          "lastName": "Blue",
+          "address": "Rua três",
+          "city": "Belo Horizonte",
+          "state": "Minas Gerais",
+          "totalOrder": 5300.00
+        },
+        {
+          "id": 3,
+          "firstName": "Roberto",
+          "lastName": "Grey",
+          "address": "Rua Santos",
+          "city": "Santos",
+          "state": "São Paulo",
+          "totalOrder": 8500.90
+        },
+        {
+          "id": 4,
+          "firstName": "Anna",
+          "lastName": "White",
+          "address": "Rua Cinco",
+          "city": "Rio de Janeiro",
+          "state": "Rio de Janeiro",
+          "totalOrder": 12500.50
+        },
+        {
+          "id": 5,
+          "firstName": "Maria",
+          "lastName": "Black",
+          "address": "Rua Sete",
+          "city": "Guarulhos",
+          "state": "São Paulo",
+          "totalOrder": 3525.50
+        },
+        {
+          "id": 6,
+          "firstName": "Bob",
+          "lastName": "Brown",
+          "address": "Rua Nove",
+          "city": "Rio de Janeiro",
+          "state": "Rio de Janeiro",
+          "totalOrder": 25000.00
+        }
+    ]
+  }
+  
